@@ -19,3 +19,46 @@ header .box_img img {
     height: 100%;
     object-fit: cover;
 }
+.pre{
+    width: 12rem;
+    height: 3rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    left: 40rem;
+    
+}
+.s1{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0.2rem;
+    left: 2rem;
+}
+.pre1{
+    width: 12rem;
+    height: 3rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    left: 50rem;
+}
+.s2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 1.5rem;
+}
+.pre2{
+    width: 12rem;
+    height: 3rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    position: relative;
+    left: 60rem;
+}
+.s3{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 2.5rem;
+}
