@@ -1,0 +1,21 @@
+header {
+    width: 120rem;
+    margin: auto;
+    height: 8rem;
+    border-bottom: 1px solid gainsboro;
+
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+header .box_img {
+    width: 6rem;
+    height: 6rem;
+}
+
+header .box_img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
